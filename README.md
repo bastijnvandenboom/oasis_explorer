@@ -24,4 +24,5 @@ OASIS is a fast and efficient calcium imaging deconvolution algorithm. It allows
 
    Use <<' Prev and Next '>> to plot different cells. If you rerun OASIS with different frame lengths, you can find those runs in the dropdown list
 
+FIGURE 1: Overview of OASIS explorer
 ![oasis_explorer](https://github.com/bastijnvandenboom/oasis_explorer/blob/b5f68ab8958ee78ed00271b48bad056424fd9aff/oasis_deconvolution_explorer.png)
